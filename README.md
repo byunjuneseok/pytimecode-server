@@ -1,1 +1,2 @@
-smpte_generator_server
+# pytimecode-server
+WIP. =)
